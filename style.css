@@ -1,0 +1,8 @@
+ul li {
+    border : 2px solid black;
+  }
+  .card-success{
+    text-decoration: line-through;
+    border-color: #32CD32;
+    color:#32CD32;
+  }
